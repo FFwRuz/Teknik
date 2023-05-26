@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\Administrator\Desktop\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+D:\Teknik Servis(Bitmedi)\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+D:\Teknik Servis(Bitmedi)\Teknik Servis\bin\Debug\Teknik Servis.exe
+D:\Teknik Servis(Bitmedi)\Teknik Servis\bin\Debug\Teknik Servis.pdb
+D:\Teknik Servis(Bitmedi)\Teknik Servis\obj\Debug\Teknik Servis.csproj.AssemblyReference.cache
+D:\Teknik Servis(Bitmedi)\Teknik Servis\obj\Debug\Teknik Servis.csproj.SuggestedBindingRedirects.cache
+D:\Teknik Servis(Bitmedi)\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+D:\Teknik Servis(Bitmedi)\Teknik Servis\obj\Debug\Teknik Servis.exe
+D:\Teknik Servis(Bitmedi)\Teknik Servis\obj\Debug\Teknik Servis.pdb
+D:\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+D:\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+D:\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+D:\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.AssemblyReference.cache
+D:\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.SuggestedBindingRedirects.cache
+D:\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+D:\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+D:\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.AssemblyReference.cache
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.SuggestedBindingRedirects.cache
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+D:\Enes - Teknik Servis\Enes - Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
